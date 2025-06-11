@@ -1,3 +1,157 @@
+--[[	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	/ ＲＯＣＬＯＴＨＥＳ
+
+	Version - 0.7
+
+	
+
+	| RoClothes Is Exploiting Script, Allowing Player To Have Nude BodyParts/Clothes
+
+	Can Be Use On Any Executor
+
+	
+
+	| This Script Will Cause FPS Drop
+
+	Because Of BodyParts/Clothes Mesh Inside Player Model
+
+	
+
+	| 𝐔𝐒𝐄 𝐀𝐓 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊
+
+	| 𝐖𝐎𝐑𝐊 𝐈𝐍 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒
+
+	
+
+	
+
+	
+
+	
+
+	local version 0.68
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 local RS = game:GetService("RunService")
 
 
@@ -1030,7 +1184,7 @@ function RoClothes(Player)
 
 				["Scale"] = "ButtsScale",
 
-				["AdjustScale"] = {"Size", "CFrame"}
+				["AdjustScale"] = {"Size", "CFrame1"}
 
 			},
 
@@ -1068,7 +1222,7 @@ function RoClothes(Player)
 
 				["Scale"] = "ButtsScale",
 
-				["AdjustScale"] = {"Size", "CFrame"}
+				["AdjustScale"] = {"Size", "CFrame1"}
 
 			},
 
@@ -1262,32 +1416,4 @@ function RoClothes(Player)
 
 			["BBC Rod"] = {
 
-				["Instance"] = "Mesh",
-
-				["Name"] = "BBC Rod",
-
-				["MeshId"] = "rbxassetid://14437003062",
-
-				["Size"] = Vector3.new(0.565, 0.802, 1.98),
-
-				["CFrame"] = CFrame.new(-0.077, -0.082, 0.017, 1, 0, 0, 0, 1, 0, 0, 0, 1),
-
-				["CFrame1"] = CFrame.new(0, -0.2, 0.7, 1, 0, 0, 0, 1, 0, 0, 0, 1),
-
-				["Transparency"] = 0,
-
-				["Material"] = Enum.Material.SmoothPlastic,
-
-				["Color"] = {
-
-					["Tone"] = "Base",
-
-					["Color"] = "Parent"
-
-				},
-
-				["Parent"] = {
-
-					[1] = "Torso",
-
-			
+				["Instance
