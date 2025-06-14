@@ -28,9 +28,6 @@
 	| 𝐔𝐒𝐄 𝐀𝐓 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊
 	| 𝐖𝐎𝐑𝐊 𝐈𝐍 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒
 	
-	The original developer of RoClothes is no longer working on this script.
-	This is a MODDED version of this script that might or might not be updated.
-	If you know who the creator of this mod is, feel free to request or suggest some things.
 	
 	
 	
